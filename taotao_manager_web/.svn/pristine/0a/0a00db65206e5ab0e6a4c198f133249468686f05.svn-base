@@ -1,0 +1,11 @@
+package com.itheima.taotao.service;
+
+import java.util.List;
+
+import com.alibaba.dubbo.config.annotation.Service;
+import com.itheima.taotao.page.EsayUIResult;
+import com.itheima.taotao.pojo.TbItem;
+
+public interface ITbItemService {
+	EsayUIResult queryItem(int page,int rows);
+}

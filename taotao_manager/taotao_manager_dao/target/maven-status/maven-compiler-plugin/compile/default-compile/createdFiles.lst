@@ -1,0 +1,11 @@
+com\itheima\taotao\mapper\TbItemParamItemMapper.class
+com\itheima\taotao\mapper\TbOrderItemMapper.class
+com\itheima\taotao\mapper\TbItemParamMapper.class
+com\itheima\taotao\mapper\TbItemMapper.class
+com\itheima\taotao\mapper\TbUserMapper.class
+com\itheima\taotao\mapper\TbOrderShippingMapper.class
+com\itheima\taotao\mapper\TbItemDescMapper.class
+com\itheima\taotao\mapper\TbContentMapper.class
+com\itheima\taotao\mapper\TbContentCategoryMapper.class
+com\itheima\taotao\mapper\TbOrderMapper.class
+com\itheima\taotao\mapper\TbItemCatMapper.class

@@ -1,0 +1,7 @@
+com\itheima\taotao\controller\PageController.class
+com\itheima\taotao\controller\PictureController.class
+com\itheima\taotao\controller\ItemCatController.class
+com\itheima\taotao\controller\ContentCategoryController.class
+com\itheima\taotao\utils\FastDFSClient.class
+com\itheima\taotao\controller\ItemController.class
+com\itheima\taotao\controller\ContentController.class
